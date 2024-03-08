@@ -78,7 +78,7 @@ $conn->close();
             <div class="row justify-content-center">
                 <div class="col-lg-12 text-center">
                     <!-- Adjust column classes as needed -->
-                    <a href="CRISSLEHOME.html">
+                    <a href="index.html">
                         <img src="loglog.png" alt="" class="img-fluid" style="display: block; margin: 0 auto;">
                     </a>
                 </div>
@@ -86,7 +86,7 @@ $conn->close();
                 <!-- <a href="index.html" class="mr-auto"><img src="assets/img/logo.png" alt="" class="img-fluid"></a> -->
                 <nav id="navbar" class="navbar">
                     <ul>
-                        <li><a class="nav-link" href="CRISSLEHOME.html">Home</a></li>
+                        <li><a class="nav-link" href="index.html">Home</a></li>
                         <li><a class="nav-link active" href="CRISSLEABOUT.html#about">About</a></li>
                         <li><a class="nav-link" href="CRISSLEPORTFOLIO.html#portfolio">Portfolio</a></li>
                         <li><a class="nav-link" href="CRISSLECONTACT.html#contact">Contact</a></li>
@@ -167,7 +167,7 @@ $conn->close();
     </div>
     <br>
     <div class="text-center"><button type="submit" style="color: #c08081; border-color: #c08081;">Send Message</button></div>
-    <button style="color: #c08081; border-color: #c08081;"><a href="CRISSLEHOME.html">Log Out</a></button>
+    <button style="color: #c08081; border-color: #c08081;"><a href="index.html">Log Out</a></button>
 </form>
 <br>
 </div>
